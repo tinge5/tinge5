@@ -26,6 +26,7 @@
 * Developed a web-based puzzle game with timed challenges and a daily leaderboard to track scores and encourage friendly competition.
 * Implemented real-time data storage and retrieval with Firestore, enabling dynamic score updates across users.
 * Optimized user experience with a responsive, interactive UI.
+* [WebLink](https://slicesgame.netlify.app/)
 * [Project Repository](https://github.com/CSC4790-Fall2025-Org/section-002-slices)
 
 ### Custom Pong Game
@@ -35,3 +36,13 @@
 * Built a classic Pong game playable in both Python console and browser, showcasing cross-platform development skills.
 * Implemented ball/paddle physics, collision detection, scoring, and pause/restart mechanics.
 * Demonstrated proficiency in interactive UI, real-time game mechanics, and multiple programming environments.
+
+#### Html version
+![HTML Version](HTMLPong-ezgif.com-crop.gif)
+
+***
+#### Python Version
+<p float="left">
+  <img src="PythonSS1.png" width="500" />
+  <img src="PythonSS2.png" width="500" />
+</p>
