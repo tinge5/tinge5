@@ -1,7 +1,7 @@
 # Turner Inge
 
 ## Overview
-> I am currently a student at Villanova University pursuing a Masters In Software Engineering. I graduated in 3.5 years with a bachelors in Computer Science. I am passionate about coding and exploring new technologies, driven by seeing projects evolve from an idea into a working solution. Whether that is building machine learning models, interactive games, web applications, or anything related to the field. I take joy in the journey of software development. Taking an idea, and seeing it come to life.
+I am currently a student at Villanova University pursuing a Masters In Software Engineering. I graduated in 3.5 years with a bachelors in Computer Science. I am passionate about coding and exploring new technologies, driven by seeing projects evolve from an idea into a working solution. Whether that is building machine learning models, interactive games, web applications, or anything related to the field. I take joy in the journey of software development. Taking an idea, and seeing it come to life.
 
 
 ***
