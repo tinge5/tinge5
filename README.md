@@ -28,6 +28,10 @@ I am currently a student at Villanova University pursuing a Masters In Software 
 * Optimized user experience with a responsive, interactive UI.
 * [WebLink](https://slicesgame.netlify.app/)
 * [Project Repository](https://github.com/CSC4790-Fall2025-Org/section-002-slices)
+<p float="left">
+  <img src="slices-ezgif.com-crop.gif" />
+  <img src="slices2-ezgif.com-crop.gif" />
+</p>
 
 ### Custom Pong Game
 
