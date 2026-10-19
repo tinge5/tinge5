@@ -5,6 +5,20 @@ I am currently a student at Villanova University pursuing a Masters In Software 
 
 
 ***
+### Workouts2.0
+
+**Technologies**: React Native, TypeScript, PostgreSQL, Supabase, Prisma, Render, Progressive Web Apps (PWA)
+
+* Developed and deployed a full-stack workout tracking application with persistent database storage and a mobile-friendly Progressive Web App (PWA) that can be added to a device's home screen.
+
+* Implemented per-set weight and repetition tracking, historical performance displays, and suggested target weights based on previous best sets to help users monitor their progress.
+
+* Designed workout completion snapshots to preserve historical records independently of subsequent workout deletions and implemented device time-zone handling to ensure accurate workout-day assignments.
+
+* Integrated password recovery using Brevo and orchestrated a six-agent AI development workflow covering requirements, architecture, frontend, backend, code review, and testing to iteratively transform nonfunctional prototypes into deployable software.
+
+* [Live Application](https://workouts2-0.onrender.com)
+  
 
 ## Projects
 ### NFL Game Outcome Predictor 
