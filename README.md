@@ -18,6 +18,10 @@ I am currently a student at Villanova University pursuing a Masters In Software 
 * Integrated password recovery using Brevo and orchestrated a six-agent AI development workflow covering requirements, architecture, frontend, backend, code review, and testing to iteratively transform nonfunctional prototypes into deployable software.
 
 * [Live Application](https://workouts2-0.onrender.com)
+<p float="left">
+  <img src="ScreenRecording_10-19-202615-03-10_1-ezgif.com-video-to-gif-converter.gif" />
+  <img src="ScreenRecording_10-19-202615-03-57_1-ezgif.com-video-to-gif-converter.gif" />
+</p>
   
 
 ## Projects
