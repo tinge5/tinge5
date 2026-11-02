@@ -30,6 +30,7 @@ I am currently a student at Villanova University pursuing a Masters In Software 
 <p float="left">
   <img src="TingeStudies.gif" />
 </p>
+
 ### Workouts2.0
 
 **Technologies**: React Native, TypeScript, PostgreSQL, Supabase, Prisma, Render, Progressive Web Apps (PWA)
