@@ -14,8 +14,8 @@ I am currently a student at Villanova University pursuing a Masters In Software 
 * Designed a compact, replayable gameplay loop that emphasizes precision, reaction time, and progression.
 * [WebLink](https://tingeblockshooter.netlify.app/)
 <p float="left">
-  <img src="ScreenRecording2026-11-02144730-ezgif.com-cut.mp4" />
-  <img src="block-shooter-2.gif" />
+  <img src="BlockShooter1.gif" />
+  <img src="BlockShooter2.gif" />
 </p>
 
 ### Tinge Studies
@@ -28,8 +28,7 @@ I am currently a student at Villanova University pursuing a Masters In Software 
 * Designed the application with a lightweight frontend and backend architecture focused on grounded responses and practical classroom use.
 * [Live Application](https://tingestudies.onrender.com)
 <p float="left">
-  <img src="tingestudies-1.gif" />
-  <img src="tingestudies-2.gif" />
+  <img src="TingeStudies.gif" />
 </p>
 ### Workouts2.0
 
