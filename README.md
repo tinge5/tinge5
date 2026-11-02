@@ -5,31 +5,7 @@ I am currently a student at Villanova University pursuing a Masters In Software 
 
 
 ***
-### Block Shooter
-
-**Technologies**: JavaScript, HTML5 Canvas, CSS, Game Design
-
-* Developed a fast-paced browser shooter focused on movement, aim, enemy waves, and score-chasing gameplay.
-* Implemented collision detection, projectile logic, enemy spawning, and responsive controls to create a smooth arcade experience.
-* Designed a compact, replayable gameplay loop that emphasizes precision, reaction time, and progression.
-* [Live App](https://tingeblockshooter.netlify.app/)
-<p float="left">
-  <img src="BlockShooter1.gif" />
-  <img src="BlockShooter2.gif" />
-</p>
-
-### Tinge Studies
-
-**Technologies**: React, Vite, FastAPI, Python, OpenAI API, RAG, FAISS, PDF/DOCX/PPTX Processing
-
-* Built a RAG-powered study assistant that allows users to upload course materials and ask questions based only on the uploaded content.
-* Processed PDF, DOCX, and PPTX files, chunked lecture material, and retrieved the most relevant passages before generating answers.
-* Integrated AI-powered chat and study question generation to help students review course content more effectively and with less friction.
-* Designed the application with a lightweight frontend and backend architecture focused on grounded responses and practical classroom use.
-* [Live Application](https://tingestudies.onrender.com)
-<p float="left">
-  <img src="TingeStudies.gif" />
-</p>
+## Projects
 
 ### Workouts2.0
 
@@ -49,8 +25,19 @@ I am currently a student at Villanova University pursuing a Masters In Software 
   <img src="Workouts2.1.gif" />
 </p>
   
+### Tinge Studies
 
-## Projects
+**Technologies**: React, Vite, FastAPI, Python, OpenAI API, RAG, FAISS, PDF/DOCX/PPTX Processing
+
+* Built a RAG-powered study assistant that allows users to upload course materials and ask questions based only on the uploaded content.
+* Processed PDF, DOCX, and PPTX files, chunked lecture material, and retrieved the most relevant passages before generating answers.
+* Integrated AI-powered chat and study question generation to help students review course content more effectively and with less friction.
+* Designed the application with a lightweight frontend and backend architecture focused on grounded responses and practical classroom use.
+* [Live Application](https://tingestudies.onrender.com)
+<p float="left">
+  <img src="TingeStudies.gif" />
+</p>
+
 ### NFL Game Outcome Predictor 
 **Technologies**: Python, Jupyter Notebook, Pandas, Scikit-learn
 * Built a machine learning pipeline to predict NFL game winners using 342k+ play-by-play records (2009–2016).
@@ -63,6 +50,19 @@ I am currently a student at Villanova University pursuing a Masters In Software 
 
 * [Project Repository](https://github.com/tinge5/finalProjectML)
  
+### Block Shooter
+
+**Technologies**: JavaScript, HTML5 Canvas, CSS, Game Design
+
+* Developed a fast-paced browser shooter focused on movement, aim, enemy waves, and score-chasing gameplay.
+* Implemented collision detection, projectile logic, enemy spawning, and responsive controls to create a smooth arcade experience.
+* Designed a compact, replayable gameplay loop that emphasizes precision, reaction time, and progression.
+* [Live App](https://tingeblockshooter.netlify.app/)
+<p float="left">
+  <img src="BlockShooter1.gif" />
+  <img src="BlockShooter2.gif" />
+</p>
+
 ### Slices Puzzle Game
 
 **Technologies**: React, JavaScript, Firestore, CSS
