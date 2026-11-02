@@ -12,7 +12,7 @@ I am currently a student at Villanova University pursuing a Masters In Software 
 * Developed a fast-paced browser shooter focused on movement, aim, enemy waves, and score-chasing gameplay.
 * Implemented collision detection, projectile logic, enemy spawning, and responsive controls to create a smooth arcade experience.
 * Designed a compact, replayable gameplay loop that emphasizes precision, reaction time, and progression.
-* [WebLink](https://tingeblockshooter.netlify.app/)
+* [Live App](https://tingeblockshooter.netlify.app/)
 <p float="left">
   <img src="BlockShooter1.gif" />
   <img src="BlockShooter2.gif" />
