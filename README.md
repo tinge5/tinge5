@@ -14,7 +14,7 @@ I am currently a student at Villanova University pursuing a Masters In Software 
 * Designed a compact, replayable gameplay loop that emphasizes precision, reaction time, and progression.
 * [WebLink](https://tingeblockshooter.netlify.app/)
 <p float="left">
-  <img src="block-shooter-1.gif" />
+  <img src="ScreenRecording2026-11-02144730-ezgif.com-cut.mp4" />
   <img src="block-shooter-2.gif" />
 </p>
 
